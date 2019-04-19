@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Rope", "17. Rope\17. Rope.csproj", "{D1C5F525-4BB8-4F3C-BA50-C141E770E43B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C5F525-4BB8-4F3C-BA50-C141E770E43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C5F525-4BB8-4F3C-BA50-C141E770E43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C5F525-4BB8-4F3C-BA50-C141E770E43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C5F525-4BB8-4F3C-BA50-C141E770E43B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC512F9F-C87C-4719-8EA6-2D94F7571EF0}
+	EndGlobalSection
+EndGlobal
